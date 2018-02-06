@@ -5,3 +5,5 @@ Record CS231n(Convolutional Neural Networks for Visual Recognition Spring 2017) 
 ## Contents
 
 - **K Nearest Neighbor Algorithm**
+
+- **Linear Support Vector Machine**
